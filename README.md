@@ -3,7 +3,7 @@
 Back-End API
 
 Users Can:
--create multiple items that they want to remember to do
+create multiple items that they want to remember to do
 -can add, edit, and remove tasks
 
 
